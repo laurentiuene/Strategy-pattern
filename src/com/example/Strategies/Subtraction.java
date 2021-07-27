@@ -1,4 +1,6 @@
-package com.example;
+package com.example.Strategies;
+
+import com.example.Strategy;
 
 public class Subtraction implements Strategy {
 

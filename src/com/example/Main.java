@@ -1,5 +1,10 @@
 package com.example;
 
+import com.example.Context.Context;
+import com.example.Strategies.Addition;
+import com.example.Strategies.Multiplication;
+import com.example.Strategies.Subtraction;
+
 public class Main {
 
     public static void main(String[] args) {

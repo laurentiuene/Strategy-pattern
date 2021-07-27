@@ -1,4 +1,6 @@
-package com.example;
+package com.example.Context;
+
+import com.example.Strategy;
 
 public class Context {
 
